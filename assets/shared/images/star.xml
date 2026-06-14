@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="star.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="star0000" x="0" y="0" width="158" height="147" frameX="-364" frameY="0" frameWidth="522" frameHeight="478"/>
+	<SubTexture name="star0001" x="158" y="0" width="344" height="296" frameX="0" frameY="-182" frameWidth="522" frameHeight="478"/>
+</TextureAtlas>

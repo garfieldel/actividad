@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="corrupt.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="corrupt0000" x="0" y="0" width="2604" height="1493" frameX="0" frameY="-23" frameWidth="2613" frameHeight="1516"/>
+	<SubTexture name="corrupt0001" x="0" y="0" width="2604" height="1493" frameX="0" frameY="-23" frameWidth="2613" frameHeight="1516"/>
+	<SubTexture name="corrupt0002" x="2604" y="0" width="2604" height="1493" frameX="0" frameY="-23" frameWidth="2613" frameHeight="1516"/>
+	<SubTexture name="corrupt0003" x="5208" y="0" width="2609" height="1469" frameX="-4" frameY="0" frameWidth="2613" frameHeight="1516"/>
+	<SubTexture name="corrupt0004" x="0" y="1493" width="2609" height="1469" frameX="-4" frameY="0" frameWidth="2613" frameHeight="1516"/>
+	<SubTexture name="corrupt0005" x="0" y="1493" width="2609" height="1469" frameX="-4" frameY="0" frameWidth="2613" frameHeight="1516"/>
+</TextureAtlas>
