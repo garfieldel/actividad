@@ -1575,7 +1575,7 @@ class FunkinLua {
 		}
 
 		try{
-			var isString:Bool = !OpenFlAssets.exists(scriptName);
+			var isString:Bool = !Assets.exists(scriptName);
 			var result:Dynamic = null;
 			if(!isString)
 				result = LuaL.dostring(lua, Assets.getText(scriptName));
@@ -1757,19 +1757,11 @@ class FunkinLua {
 	{
 		if(!scriptFile.endsWith(ext)) scriptFile += ext;
 		var path:String = Paths.getPath(scriptFile, TEXT);
-		#if MODS_ALLOWED
-		if(FileSystem.exists(path))
-		#else
-		if(Assets.exists(path, TEXT))
-		#end
+		if(Assets.exists(path))
 		{
 			return path;
 		}
-		#if MODS_ALLOWED
-		else if(FileSystem.exists(scriptFile))
-		#else
-		else if(Assets.exists(scriptFile, TEXT))
-		#end
+		else if(Assets.exists(scriptFile))
 		{
 			return scriptFile;
 		}
