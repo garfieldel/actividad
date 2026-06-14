@@ -8,7 +8,6 @@ import backend.Song;
 import openfl.Lib;
 import openfl.utils.Assets as OpenFlAssets;
 import openfl.utils.Assets;
-import
 import openfl.display.BitmapData;
 import flixel.FlxBasic;
 import flixel.FlxObject;
