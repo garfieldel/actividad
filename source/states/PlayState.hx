@@ -3300,7 +3300,7 @@ class PlayState extends MusicBeatState
 			luaToLoad = Paths.getSharedPath(luaFile);
 
 		if(FileSystem.exists(luaToLoad))
-		#elseif sys
+		#else
 		var luaToLoad:String = Paths.getSharedPath(luaFile);
 		if(OpenFlAssets.exists(luaToLoad))
 		#end
