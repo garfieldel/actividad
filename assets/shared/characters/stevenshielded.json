@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-133
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "steven idle"
+		},
+		{
+			"offsets": [
+				6,
+				-75
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "steven left"
+		},
+		{
+			"offsets": [
+				14,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "steven up"
+		},
+		{
+			"offsets": [
+				0,
+				-136
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "steven right"
+		},
+		{
+			"offsets": [
+				39,
+				-152
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "steven down"
+		},
+		{
+			"offsets": [
+				-1,
+				-132
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "ready",
+			"loop": false,
+			"name": "steven ready shield"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/stevenshielded",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "steven",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		10,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

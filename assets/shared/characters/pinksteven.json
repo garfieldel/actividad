@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-133
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "steven idle"
+		},
+		{
+			"offsets": [
+				6,
+				-75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "steven left"
+		},
+		{
+			"offsets": [
+				14,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "steven up"
+		},
+		{
+			"offsets": [
+				0,
+				-136
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "steven right"
+		},
+		{
+			"offsets": [
+				0,
+				-220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "steven down"
+		},
+		{
+			"offsets": [
+				-4,
+				-136
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "snap",
+			"loop": false,
+			"name": "THISISNTAGAME"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/pink steven",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "steven",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		10,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

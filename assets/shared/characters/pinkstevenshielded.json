@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-133
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "steven idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-75
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "steven left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "steven up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-136
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "steven right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				-152
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "steven down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-132
+			],
+			"anim": "ready",
+			"fps": 24,
+			"name": "steven ready shield",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				-135
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "snap",
+			"loop": false,
+			"name": "THISISNTAGAME"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/shielded pink steven",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "steven",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		10,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
